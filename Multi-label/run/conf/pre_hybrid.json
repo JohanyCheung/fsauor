@@ -1,0 +1,22 @@
+{
+    "location_traffic_convenience": "location_traffic_convenience_10-0.18.hdf5",
+    "location_distance_from_business_district": "location_distance_from_business_district_15-0.34.hdf5",
+    "location_easy_to_find": "location_easy_to_find_11-0.27.hdf5",
+    "service_wait_time": "service_wait_time_04.hdf5",
+    "service_waiters_attitude": "service_waiters_attitude_15.hdf5",
+    "service_parking_convenience": "service_parking_convenience_06.hdf5",
+    "service_serving_speed": "service_serving_speed_14.hdf5",
+    "price_level": "price_level_10.hdf5",
+    "price_cost_effective": "price_cost_effective_11.hdf5",
+    "price_discount": "price_discount_12.hdf5",
+    "environment_decoration": "environment_decoration_12.hdf5",
+    "environment_noise": "environment_noise_11.hdf5",
+    "environment_space": "environment_space_07.hdf5",
+    "environment_cleaness": "environment_cleaness_09.hdf5",
+    "dish_portion": "dish_portion_05.hdf5",
+    "dish_taste": "dish_taste_09.hdf5",
+    "dish_look": "dish_look_14.hdf5",
+    "dish_recommendation": "dish_recommendation_06.hdf5",
+    "others_overall_experience": "others_overall_experience_14.hdf5",
+    "others_willing_to_consume_again": "others_willing_to_consume_again_10.hdf5"
+}
